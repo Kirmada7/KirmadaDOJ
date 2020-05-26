@@ -1,0 +1,15 @@
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\bin\Debug\Kirmada DOJ.exe.config
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\bin\Debug\Kirmada DOJ.exe
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\bin\Debug\Kirmada DOJ.pdb
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada_DOJ.Form1.resources
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada_DOJ.Properties.Resources.resources
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.csproj.GenerateResource.cache
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.csproj.CoreCompileInputs.cache
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.exe
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.pdb
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada_DOJ.UserControl1.resources
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.csprojAssemblyReference.cache
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\bin\Debug\Kirmada DOJ.exe.manifest
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\bin\Debug\Kirmada DOJ.application
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.exe.manifest
+C:\Users\91979\source\repos\Kirmada DOJ\Kirmada DOJ\obj\Debug\Kirmada DOJ.application
